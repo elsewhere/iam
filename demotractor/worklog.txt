@@ -1,0 +1,21 @@
+[ 17.4.2004] :: Korjauksia
+				- Fontti-enginen korjaus
+				- Objekti-engine lis‰tty
+				
+[ 13.4.2004] :: More library functions
+				- Init-funkkarit kustomoitu uusiksi
+				- Lataa resurssit skriptin kautta
+				
+[ 5.4.2004] :: More library functions
+				- Demo-engine notationa with "dms" prefix
+				- Initti koodi tehty
+				
+[29.3.2004] :: Workspace and project settings
+				- Vanhojen koodien siivoamista ja uudelleen j‰rjestely‰
+				- Namespace libille
+				- Lis‰‰ koodia libbiin
+				- Manuaalin kirjoitus
+
+[26.3.2004] :: Homma k‰yntiin
+				- DLL projekti
+				- perus projekti s‰‰tˆ‰

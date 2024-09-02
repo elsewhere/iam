@@ -1,0 +1,374 @@
+-->Log::create(char *name): File loki.log created
+-->Log::writeToLog(char *text): Timer::create(): Timer instance created
+-->Log::writeToLog(char *text): Sound::create(): Sound instance created
+-->Log::writeToLog(char *text): TextureManager::create(): TextureManager instance created
+-->Log::writeToLog(char *text): EffectManager::create(): EffectManager instance created
+-->Log::writeToLog(char *text): FontManager::create(): FontManager instance created
+-->Log::writeToLog(char *text): EffectManager::create(): ObjectManager instance created
+-->Log::writeToLog(char *text): ObjectManager::addObject(): File "baby.t3d" loaded and added as object "baby.t3d"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "blast.jpg" loaded and added as texture "blast.jpg"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "databall.jpg" loaded and added as texture "databall.jpg"
+-->Log::writeToLog(char *text): ObjectManager::addObject(): File "flake.t3d" loaded and added as object "flake.t3d"
+-->Log::writeToLog(char *text): ObjectManager::addObject(): File "flake_bubble.t3d" loaded and added as object "flake_bubble.t3d"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "flare.pcx" loaded and added as texture "flare.pcx"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "font32.pcx" loaded and added as texture "font32.pcx"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "gootti.pcx" loaded and added as texture "gootti.pcx"
+-->Log::writeToLog(char *text): ObjectManager::addObject(): File "hedra.t3d" loaded and added as object "hedra.t3d"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "huuto.jpg" loaded and added as texture "huuto.jpg"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "inverteye.jpg" loaded and added as texture "inverteye.jpg"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "kasvis.jpg" loaded and added as texture "kasvis.jpg"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "kromi.pcx" loaded and added as texture "kromi.pcx"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "loadpic.jpg" loaded and added as texture "loadpic.jpg"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "luontofontti.pcx" loaded and added as texture "luontofontti.pcx"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "nousu.jpg" loaded and added as texture "nousu.jpg"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "particle.jpg" loaded and added as texture "particle.jpg"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "particle.pcx" loaded and added as texture "particle.pcx"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "particle1.pcx" loaded and added as texture "particle1.pcx"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "particle2.pcx" loaded and added as texture "particle2.pcx"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "particle3.pcx" loaded and added as texture "particle3.pcx"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "saastetaivas.jpg" loaded and added as texture "saastetaivas.jpg"
+-->Log::writeToLog(char *text): ObjectManager::addObject(): File "sphere.t3d" loaded and added as object "sphere.t3d"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "teknofontti.pcx" loaded and added as texture "teknofontti.pcx"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "testi.jpg" loaded and added as texture "testi.jpg"
+-->Log::writeToLog(char *text): TextureManager::addTextureFromMemory(): File "varjokuva.jpg" loaded and added as texture "varjokuva.jpg"
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "startti" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "kasvot" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "mustikka" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "datapallo" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "kristalli" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "ruoho" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "tehdas" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "kasviefekti" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "digital" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "****SIIRTYMÄ1****" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "lehtipuu" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "flubber" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "potential" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "****SIIRTYMÄ2****" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "kasvu" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "bubbles" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "water" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "meta" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "kusiainen" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "worm" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "keiju" added
+-->Log::writeToLog(char *text): EffectManager::addEffect(): Effect "loppu" added
+-->Log::writeToLog(char *text): Lehtipuun konstruktori
+-->Log::writeToLog(char *text): 315620b8 315869f0 315b7628 31600a50
+-->Log::writeToLog(char *text): oksien verteksitaulukot kopioitu
+-->Log::writeToLog(char *text): oksien verteksitaulukko skaalattu ja siirretty
+-->Log::writeToLog(char *text): leaflist = db10054
+-->Log::writeToLog(char *text): kamat leaftlistissa
+-->Log::writeToLog(char *text): leaflist kopioitu verteksitaulukkoon
+-->Log::writeToLog(char *text): Lehtipuun konstruktori
+-->Log::writeToLog(char *text): 31662518 31687650 316b8d28 31703080
+-->Log::writeToLog(char *text): oksien verteksitaulukot kopioitu
+-->Log::writeToLog(char *text): oksien verteksitaulukko skaalattu ja siirretty
+-->Log::writeToLog(char *text): leaflist = db10054
+-->Log::writeToLog(char *text): kamat leaftlistissa
+-->Log::writeToLog(char *text): leaflist kopioitu verteksitaulukkoon
+-->Log::writeToLog(char *text): Lehtipuun konstruktori
+-->Log::writeToLog(char *text): 31765f88 3177e610 3179eeb8 317cfb80
+-->Log::writeToLog(char *text): oksien verteksitaulukot kopioitu
+-->Log::writeToLog(char *text): oksien verteksitaulukko skaalattu ja siirretty
+-->Log::writeToLog(char *text): leaflist = 6090054
+-->Log::writeToLog(char *text): kamat leaftlistissa
+-->Log::writeToLog(char *text): leaflist kopioitu verteksitaulukkoon
+-->Log::writeToLog(char *text): TextureManager::uploadTextures(): Uploading textures
+-->Log::writeToLog(char *text): Sync 0.065750
+-->Log::writeToLog(char *text): Sync 0.068375
+-->Log::writeToLog(char *text): Sync 0.068375
+-->Log::writeToLog(char *text): Sync 0.069042
+-->Log::writeToLog(char *text): Sync 0.069042
+-->Log::writeToLog(char *text): Sync 0.069667
+-->Log::writeToLog(char *text): Sync 0.069667
+-->Log::writeToLog(char *text): Sync 0.070333
+-->Log::writeToLog(char *text): Sync 0.070333
+-->Log::writeToLog(char *text): Sync 0.070958
+-->Log::writeToLog(char *text): Sync 0.127625
+-->Log::writeToLog(char *text): Sync 0.128250
+-->Log::writeToLog(char *text): Sync 0.128250
+-->Log::writeToLog(char *text): Sync 0.128917
+-->Log::writeToLog(char *text): Sync 0.128917
+-->Log::writeToLog(char *text): Sync 0.129583
+-->Log::writeToLog(char *text): Sync 0.129583
+-->Log::writeToLog(char *text): Sync 0.130208
+-->Log::writeToLog(char *text): Sync 0.130208
+-->Log::writeToLog(char *text): Sync 0.130875
+-->Log::writeToLog(char *text): Sync 0.131542
+-->Log::writeToLog(char *text): Sync 0.132167
+-->Log::writeToLog(char *text): Sync 0.132167
+-->Log::writeToLog(char *text): Sync 0.132833
+-->Log::writeToLog(char *text): Sync 0.132833
+-->Log::writeToLog(char *text): Sync 0.133458
+-->Log::writeToLog(char *text): Sync 0.133458
+-->Log::writeToLog(char *text): Sync 0.134125
+-->Log::writeToLog(char *text): Sync 0.195958
+-->Log::writeToLog(char *text): Sync 0.196625
+-->Log::writeToLog(char *text): Sync 0.196625
+-->Log::writeToLog(char *text): Sync 0.197292
+-->Log::writeToLog(char *text): Sync 0.197292
+-->Log::writeToLog(char *text): Sync 0.197917
+-->Log::writeToLog(char *text): Sync 0.198583
+-->Log::writeToLog(char *text): Sync 0.199250
+-->Log::writeToLog(char *text): Sync 0.199250
+-->Log::writeToLog(char *text): Sync 0.199875
+-->Log::writeToLog(char *text): Sync 0.199875
+-->Log::writeToLog(char *text): Sync 0.200542
+-->Log::writeToLog(char *text): Sync 0.200542
+-->Log::writeToLog(char *text): Sync 0.201167
+-->Log::writeToLog(char *text): Sync 0.201167
+-->Log::writeToLog(char *text): Sync 0.201833
+-->Log::writeToLog(char *text): Sync 0.201833
+-->Log::writeToLog(char *text): Sync 0.202500
+-->Log::writeToLog(char *text): Sync 0.202500
+-->Log::writeToLog(char *text): Sync 0.203125
+-->Log::writeToLog(char *text): Sync 0.203125
+-->Log::writeToLog(char *text): Sync 0.261750
+-->Log::writeToLog(char *text): Sync 0.262375
+-->Log::writeToLog(char *text): Sync 0.262375
+-->Log::writeToLog(char *text): Sync 0.263042
+-->Log::writeToLog(char *text): Sync 0.263042
+-->Log::writeToLog(char *text): Sync 0.263667
+-->Log::writeToLog(char *text): Sync 0.263667
+-->Log::writeToLog(char *text): Sync 0.264333
+-->Log::writeToLog(char *text): Sync 0.264333
+-->Log::writeToLog(char *text): Sync 0.265000
+-->Log::writeToLog(char *text): Sync 0.265625
+-->Log::writeToLog(char *text): Sync 0.265625
+-->Log::writeToLog(char *text): Sync 0.266292
+-->Log::writeToLog(char *text): Sync 0.266292
+-->Log::writeToLog(char *text): Sync 0.266958
+-->Log::writeToLog(char *text): Sync 0.266958
+-->Log::writeToLog(char *text): Sync 0.267583
+-->Log::writeToLog(char *text): Sync 0.267583
+-->Log::writeToLog(char *text): Sync 0.268250
+-->Log::writeToLog(char *text): Sync 0.268250
+-->Log::writeToLog(char *text): Sync 0.268875
+-->Log::writeToLog(char *text): Sync 0.268875
+-->Log::writeToLog(char *text): Sync 0.297542
+-->Log::writeToLog(char *text): Sync 0.298208
+-->Log::writeToLog(char *text): Sync 0.298208
+-->Log::writeToLog(char *text): Sync 0.298833
+-->Log::writeToLog(char *text): Sync 0.298833
+-->Log::writeToLog(char *text): Sync 0.299500
+-->Log::writeToLog(char *text): Sync 0.299500
+-->Log::writeToLog(char *text): Sync 0.300125
+-->Log::writeToLog(char *text): Sync 0.300125
+-->Log::writeToLog(char *text): Sync 0.300792
+-->Log::writeToLog(char *text): Sync 0.300792
+-->Log::writeToLog(char *text): Sync 0.301458
+-->Log::writeToLog(char *text): Sync 0.301458
+-->Log::writeToLog(char *text): Sync 0.302083
+-->Log::writeToLog(char *text): Sync 0.302083
+-->Log::writeToLog(char *text): Sync 0.330083
+-->Log::writeToLog(char *text): Sync 0.330750
+-->Log::writeToLog(char *text): Sync 0.330750
+-->Log::writeToLog(char *text): Sync 0.331375
+-->Log::writeToLog(char *text): Sync 0.331375
+-->Log::writeToLog(char *text): Sync 0.332042
+-->Log::writeToLog(char *text): Sync 0.332042
+-->Log::writeToLog(char *text): Sync 0.332708
+-->Log::writeToLog(char *text): Sync 0.332708
+-->Log::writeToLog(char *text): Sync 0.333333
+-->Log::writeToLog(char *text): Sync 0.333333
+-->Log::writeToLog(char *text): Sync 0.334000
+-->Log::writeToLog(char *text): Sync 0.334667
+-->Log::writeToLog(char *text): Sync 0.334667
+-->Log::writeToLog(char *text): Sync 0.335292
+-->Log::writeToLog(char *text): Sync 0.362625
+-->Log::writeToLog(char *text): Sync 0.363292
+-->Log::writeToLog(char *text): Sync 0.363292
+-->Log::writeToLog(char *text): Sync 0.363958
+-->Log::writeToLog(char *text): Sync 0.364583
+-->Log::writeToLog(char *text): Sync 0.364583
+-->Log::writeToLog(char *text): Sync 0.365250
+-->Log::writeToLog(char *text): Sync 0.365250
+-->Log::writeToLog(char *text): Sync 0.365917
+-->Log::writeToLog(char *text): Sync 0.365917
+-->Log::writeToLog(char *text): Sync 0.366542
+-->Log::writeToLog(char *text): Sync 0.366542
+-->Log::writeToLog(char *text): Sync 0.367208
+-->Log::writeToLog(char *text): Sync 0.367208
+-->Log::writeToLog(char *text): Sync 0.395208
+-->Log::writeToLog(char *text): Sync 0.395833
+-->Log::writeToLog(char *text): Sync 0.395833
+-->Log::writeToLog(char *text): Sync 0.396500
+-->Log::writeToLog(char *text): Sync 0.396500
+-->Log::writeToLog(char *text): Sync 0.397167
+-->Log::writeToLog(char *text): Sync 0.397167
+-->Log::writeToLog(char *text): Sync 0.397792
+-->Log::writeToLog(char *text): Sync 0.397792
+-->Log::writeToLog(char *text): Sync 0.398458
+-->Log::writeToLog(char *text): Sync 0.398458
+-->Log::writeToLog(char *text): Sync 0.399083
+-->Log::writeToLog(char *text): Sync 0.399083
+-->Log::writeToLog(char *text): Sync 0.399750
+-->Log::writeToLog(char *text): Sync 0.399750
+-->Log::writeToLog(char *text): Sync 0.429042
+-->Log::writeToLog(char *text): Sync 0.429042
+-->Log::writeToLog(char *text): Sync 0.429708
+-->Log::writeToLog(char *text): Sync 0.429708
+-->Log::writeToLog(char *text): Sync 0.430333
+-->Log::writeToLog(char *text): Sync 0.430333
+-->Log::writeToLog(char *text): Sync 0.431000
+-->Log::writeToLog(char *text): Sync 0.431000
+-->Log::writeToLog(char *text): Sync 0.431667
+-->Log::writeToLog(char *text): Sync 0.431667
+-->Log::writeToLog(char *text): Sync 0.432292
+-->Log::writeToLog(char *text): Sync 0.432292
+-->Log::writeToLog(char *text): Sync 0.432958
+-->Log::writeToLog(char *text): Sync 0.432958
+-->Log::writeToLog(char *text): Sync 0.433625
+-->Log::writeToLog(char *text): Sync 0.462250
+-->Log::writeToLog(char *text): Sync 0.462250
+-->Log::writeToLog(char *text): Sync 0.462917
+-->Log::writeToLog(char *text): Sync 0.462917
+-->Log::writeToLog(char *text): Sync 0.463542
+-->Log::writeToLog(char *text): Sync 0.463542
+-->Log::writeToLog(char *text): Sync 0.464208
+-->Log::writeToLog(char *text): Sync 0.464208
+-->Log::writeToLog(char *text): Sync 0.464875
+-->Log::writeToLog(char *text): Sync 0.464875
+-->Log::writeToLog(char *text): Sync 0.465500
+-->Log::writeToLog(char *text): Sync 0.465500
+-->Log::writeToLog(char *text): Sync 0.496125
+-->Log::writeToLog(char *text): Sync 0.496125
+-->Log::writeToLog(char *text): Sync 0.496750
+-->Log::writeToLog(char *text): Sync 0.496750
+-->Log::writeToLog(char *text): Sync 0.497417
+-->Log::writeToLog(char *text): Sync 0.497417
+-->Log::writeToLog(char *text): Sync 0.498042
+-->Log::writeToLog(char *text): Sync 0.498042
+-->Log::writeToLog(char *text): Sync 0.498708
+-->Log::writeToLog(char *text): Sync 0.498708
+-->Log::writeToLog(char *text): Sync 0.499375
+-->Log::writeToLog(char *text): Sync 0.499375
+-->Log::writeToLog(char *text): Sync 0.500000
+-->Log::writeToLog(char *text): Sync 0.529292
+-->Log::writeToLog(char *text): Sync 0.529292
+-->Log::writeToLog(char *text): Sync 0.529958
+-->Log::writeToLog(char *text): Sync 0.530625
+-->Log::writeToLog(char *text): Sync 0.530625
+-->Log::writeToLog(char *text): Sync 0.531250
+-->Log::writeToLog(char *text): Sync 0.531250
+-->Log::writeToLog(char *text): Sync 0.531917
+-->Log::writeToLog(char *text): Sync 0.531917
+-->Log::writeToLog(char *text): Sync 0.532583
+-->Log::writeToLog(char *text): Sync 0.561875
+-->Log::writeToLog(char *text): Sync 0.562500
+-->Log::writeToLog(char *text): Sync 0.562500
+-->Log::writeToLog(char *text): Sync 0.563167
+-->Log::writeToLog(char *text): Sync 0.563167
+-->Log::writeToLog(char *text): Sync 0.563833
+-->Log::writeToLog(char *text): Sync 0.563833
+-->Log::writeToLog(char *text): Sync 0.564458
+-->Log::writeToLog(char *text): Sync 0.564458
+-->Log::writeToLog(char *text): Sync 0.565125
+-->Log::writeToLog(char *text): Sync 0.597000
+-->Log::writeToLog(char *text): Sync 0.597667
+-->Log::writeToLog(char *text): Sync 0.597667
+-->Log::writeToLog(char *text): Sync 0.598333
+-->Log::writeToLog(char *text): Sync 0.598333
+-->Log::writeToLog(char *text): Sync 0.598958
+-->Log::writeToLog(char *text): Sync 0.598958
+-->Log::writeToLog(char *text): Sync 0.599625
+-->Log::writeToLog(char *text): Sync 0.599625
+-->Log::writeToLog(char *text): Sync 0.600292
+-->Log::writeToLog(char *text): Sync 0.630875
+-->Log::writeToLog(char *text): Sync 0.631542
+-->Log::writeToLog(char *text): Sync 0.631542
+-->Log::writeToLog(char *text): Sync 0.632167
+-->Log::writeToLog(char *text): Sync 0.632167
+-->Log::writeToLog(char *text): Sync 0.632833
+-->Log::writeToLog(char *text): Sync 0.632833
+-->Log::writeToLog(char *text): Sync 0.633458
+-->Log::writeToLog(char *text): Sync 0.633458
+-->Log::writeToLog(char *text): Sync 0.634125
+-->Log::writeToLog(char *text): Sync 0.663417
+-->Log::writeToLog(char *text): Sync 0.664083
+-->Log::writeToLog(char *text): Sync 0.664083
+-->Log::writeToLog(char *text): Sync 0.664708
+-->Log::writeToLog(char *text): Sync 0.664708
+-->Log::writeToLog(char *text): Sync 0.665375
+-->Log::writeToLog(char *text): Sync 0.665375
+-->Log::writeToLog(char *text): Sync 0.666042
+-->Log::writeToLog(char *text): Sync 0.666042
+-->Log::writeToLog(char *text): Sync 0.666667
+-->Log::writeToLog(char *text): Sync 0.697917
+-->Log::writeToLog(char *text): Sync 0.697917
+-->Log::writeToLog(char *text): Sync 0.698583
+-->Log::writeToLog(char *text): Sync 0.698583
+-->Log::writeToLog(char *text): Sync 0.699250
+-->Log::writeToLog(char *text): Sync 0.731125
+-->Log::writeToLog(char *text): Sync 0.731125
+-->Log::writeToLog(char *text): Sync 0.731792
+-->Log::writeToLog(char *text): Sync 0.731792
+-->Log::writeToLog(char *text): Sync 0.732417
+-->Log::writeToLog(char *text): Sync 0.732417
+-->Log::writeToLog(char *text): Sync 0.733083
+-->Log::writeToLog(char *text): Sync 0.733083
+-->Log::writeToLog(char *text): Sync 0.733750
+-->Log::writeToLog(char *text): Sync 0.733750
+-->Log::writeToLog(char *text): Sync 0.734375
+-->Log::writeToLog(char *text): Sync 0.734375
+-->Log::writeToLog(char *text): Sync 0.735042
+-->Log::writeToLog(char *text): Sync 0.765000
+-->Log::writeToLog(char *text): Sync 0.765625
+-->Log::writeToLog(char *text): Sync 0.765625
+-->Log::writeToLog(char *text): Sync 0.766292
+-->Log::writeToLog(char *text): Sync 0.766292
+-->Log::writeToLog(char *text): Sync 0.766958
+-->Log::writeToLog(char *text): Sync 0.766958
+-->Log::writeToLog(char *text): Sync 0.798833
+-->Log::writeToLog(char *text): Sync 0.798833
+-->Log::writeToLog(char *text): Sync 0.799500
+-->Log::writeToLog(char *text): Sync 0.799500
+-->Log::writeToLog(char *text): Sync 0.800125
+-->Log::writeToLog(char *text): Sync 0.800125
+-->Log::writeToLog(char *text): Sync 0.800792
+-->Log::writeToLog(char *text): Sync 0.832708
+-->Log::writeToLog(char *text): Sync 0.833333
+-->Log::writeToLog(char *text): Sync 0.833333
+-->Log::writeToLog(char *text): Sync 0.834000
+-->Log::writeToLog(char *text): Sync 0.865917
+-->Log::writeToLog(char *text): Sync 0.865917
+-->Log::writeToLog(char *text): Sync 0.866542
+-->Log::writeToLog(char *text): Sync 0.866542
+-->Log::writeToLog(char *text): Sync 0.867208
+-->Log::writeToLog(char *text): Sync 0.867208
+-->Log::writeToLog(char *text): Sync 0.867833
+-->Log::writeToLog(char *text): Sync 0.868500
+-->Log::writeToLog(char *text): Sync 0.899083
+-->Log::writeToLog(char *text): Sync 0.899750
+-->Log::writeToLog(char *text): Sync 0.899750
+-->Log::writeToLog(char *text): Sync 0.900417
+-->Log::writeToLog(char *text): Sync 0.900417
+-->Log::writeToLog(char *text): Sync 0.901042
+-->Log::writeToLog(char *text): Sync 0.901042
+-->Log::writeToLog(char *text): Sync 0.901708
+-->Log::writeToLog(char *text): Sync 0.934250
+-->Log::writeToLog(char *text): Sync 0.934917
+-->Log::writeToLog(char *text): Sync 0.934917
+-->Log::writeToLog(char *text): Sync 0.935542
+-->Log::writeToLog(char *text): Sync 0.936208
+-->Log::writeToLog(char *text): Sync 0.936208
+-->Log::writeToLog(char *text): Sync 0.936875
+-->Log::writeToLog(char *text): Sync 0.936875
+-->Log::writeToLog(char *text): Sync 0.937500
+-->Log::writeToLog(char *text): Sync 0.937500
+-->Log::writeToLog(char *text): Sync 0.966792
+-->Log::writeToLog(char *text): Sync 0.967458
+-->Log::writeToLog(char *text): Sync 0.967458
+-->Log::writeToLog(char *text): Sync 0.968125
+-->Log::writeToLog(char *text): Sync 0.968125
+-->Log::writeToLog(char *text): Sync 0.968750
+-->Log::writeToLog(char *text): Sync 0.968750
+-->Log::writeToLog(char *text): ObjectManager::release(): Instance deleted
+-->Log::writeToLog(char *text): FontManager::release(): Instance deleted
+-->Log::writeToLog(char *text): EffectManager::release(): Instance deleted
+-->Log::writeToLog(char *text): TextureManager::release(): Instance deleted
+-->Log::writeToLog(char *text): Sound::close(): Instance deleted
+-->Log::writeToLog(char *text): Timer::release(): Instance deleted
+
+-->Log::free() Instance deleted.

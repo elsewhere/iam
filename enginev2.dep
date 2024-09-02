@@ -1,0 +1,81 @@
+# Microsoft Developer Studio Generated Dependency File, included by enginev2.mak
+
+.\main.cpp : \
+	".\config.hpp"\
+	".\effects\3dripple.hpp"\
+	".\effects\databall.hpp"\
+	".\effects\dotfade.hpp"\
+	".\effects\efekti1.hpp"\
+	".\effects\efekti2.hpp"\
+	".\effects\efekti3.hpp"\
+	".\effects\fadein.hpp"\
+	".\effects\gridtypes.hpp"\
+	".\effects\lehtipuuefekti.hpp"\
+	".\effects\lierot.hpp"\
+	".\effects\metapilar.hpp"\
+	".\effects\metatypes.hpp"\
+	".\effects\noise.hpp"\
+	".\effects\refface.hpp"\
+	".\effects\ripple.hpp"\
+	".\effects\ripple2.hpp"\
+	".\effects\slide.hpp"\
+	".\effects\strings.hpp"\
+	".\effects\tilpe1.hpp"\
+	".\effects\tilpe2.hpp"\
+	".\externs.hpp"\
+	".\lib\base.hpp"\
+	".\lib\beziercurve.hpp"\
+	".\lib\effectmanager.hpp"\
+	".\lib\enums.hpp"\
+	".\lib\font.hpp"\
+	".\lib\glext.h"\
+	".\lib\hermitecurve.hpp"\
+	".\lib\image.hpp"\
+	".\lib\list.hpp"\
+	".\lib\lista.hpp"\
+	".\lib\log.hpp"\
+	".\lib\matrix.hpp"\
+	".\lib\objectmanager.hpp"\
+	".\lib\opengl.hpp"\
+	".\lib\path.hpp"\
+	".\lib\t3d.hpp"\
+	".\lib\texture.hpp"\
+	".\lib\texturemanager.hpp"\
+	".\lib\vector.hpp"\
+	".\lib\wglext.h"\
+	".\mmgr.h"\
+	".\nommgr.h"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\effects\lehtipuuefekti.cpp : \
+	".\effects\lehtipuuefekti.hpp"\
+	".\externs.hpp"\
+	".\lib\base.hpp"\
+	".\lib\beziercurve.hpp"\
+	".\lib\effectmanager.hpp"\
+	".\lib\enums.hpp"\
+	".\lib\font.hpp"\
+	".\lib\glext.h"\
+	".\lib\hermitecurve.hpp"\
+	".\lib\image.hpp"\
+	".\lib\list.hpp"\
+	".\lib\lista.hpp"\
+	".\lib\log.hpp"\
+	".\lib\matrix.hpp"\
+	".\lib\objectmanager.hpp"\
+	".\lib\opengl.hpp"\
+	".\lib\path.hpp"\
+	".\lib\t3d.hpp"\
+	".\lib\texture.hpp"\
+	".\lib\texturemanager.hpp"\
+	".\lib\vector.hpp"\
+	".\lib\wglext.h"\
+	".\mmgr.h"\
+	".\nommgr.h"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\resource.rc : \
+	".\logo.bmp"\
+	

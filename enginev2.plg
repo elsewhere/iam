@@ -1,0 +1,156 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: enginev2 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\JRJEST~1\LOCALS~1\Temp\RSP145.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/enginev2.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\main.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\mathematics.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\lib\path.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\3dripple.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\bubble.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\build.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\crystal.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\databall.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\digital.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\dotfade.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\efekti1.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\efekti2.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\efekti3.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\fadein.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\flubber.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\kasviefekti.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\kasvu.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\keiju.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\kusetus.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\layers.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\lehtipuuefekti.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\lierot.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\metapilar.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\mustikka.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\noise.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\potential.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\refface.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\ripple.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\ripple2.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\ruoho.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\slide.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\start.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\strings.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\tehdas.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\tilpe1.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\tilpe2.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\viimeinen.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\water.cpp"
+"C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\worm.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\JRJEST~1\LOCALS~1\Temp\RSP145.tmp" 
+Creating temporary file "C:\DOCUME~1\JRJEST~1\LOCALS~1\Temp\RSP146.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib comctl32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/enginev2.pdb" /machine:I386 /out:"Release/enginev2.exe" 
+".\Release\config.obj"
+".\Release\lista.obj"
+".\Release\main.obj"
+".\Release\mathematics.obj"
+".\Release\mmgr.obj"
+".\Release\path.obj"
+".\Release\3dripple.obj"
+".\Release\bubble.obj"
+".\Release\build.obj"
+".\Release\crystal.obj"
+".\Release\databall.obj"
+".\Release\digital.obj"
+".\Release\dotfade.obj"
+".\Release\efekti1.obj"
+".\Release\efekti2.obj"
+".\Release\efekti3.obj"
+".\Release\fadein.obj"
+".\Release\flubber.obj"
+".\Release\kasviefekti.obj"
+".\Release\kasvu.obj"
+".\Release\keiju.obj"
+".\Release\kusetus.obj"
+".\Release\layers.obj"
+".\Release\lehtipuuefekti.obj"
+".\Release\lierot.obj"
+".\Release\metapilar.obj"
+".\Release\mustikka.obj"
+".\Release\noise.obj"
+".\Release\potential.obj"
+".\Release\refface.obj"
+".\Release\ripple.obj"
+".\Release\ripple2.obj"
+".\Release\ruoho.obj"
+".\Release\slide.obj"
+".\Release\start.obj"
+".\Release\strings.obj"
+".\Release\tehdas.obj"
+".\Release\tilpe1.obj"
+".\Release\tilpe2.obj"
+".\Release\viimeinen.obj"
+".\Release\water.obj"
+".\Release\worm.obj"
+".\Release\resource.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\JRJEST~1\LOCALS~1\Temp\RSP146.tmp"
+<h3>Output Window</h3>
+Compiling...
+main.cpp
+mathematics.cpp
+path.cpp
+3dripple.cpp
+bubble.cpp
+build.cpp
+crystal.cpp
+databall.cpp
+digital.cpp
+dotfade.cpp
+efekti1.cpp
+efekti2.cpp
+efekti3.cpp
+C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\efekti3.cpp(110) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\efekti3.cpp(110) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+fadein.cpp
+flubber.cpp
+kasviefekti.cpp
+kasvu.cpp
+keiju.cpp
+kusetus.cpp
+layers.cpp
+lehtipuuefekti.cpp
+lierot.cpp
+metapilar.cpp
+C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\metapilar.cpp(178) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+mustikka.cpp
+noise.cpp
+potential.cpp
+refface.cpp
+ripple.cpp
+ripple2.cpp
+ruoho.cpp
+slide.cpp
+C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\slide.cpp(64) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\Järjestelmänvalvoja\Työpöytä\finaali3\koodi\asm04_lopullinen\asm04\effects\slide.cpp(64) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+start.cpp
+strings.cpp
+tehdas.cpp
+tilpe1.cpp
+tilpe2.cpp
+viimeinen.cpp
+water.cpp
+worm.cpp
+Linking...
+   Creating library Release/enginev2.lib and object Release/enginev2.exp
+
+
+
+<h3>Results</h3>
+enginev2.exe - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,82 @@
+:: DemoTractor v1.0 ::
+......................
+......................
+
+Usage:	Copy "lib" forlder to a workspace folder and add "externs.hpp" to a project header files.
+		Link demotractor.lib to the project and compile. Make sure to include demotractor.dll 
+		to the working directory.
+
+Exported classes
+
+		Vector
+		Vertex
+		Face
+		Matrix
+		Object
+		Texture
+		Image		
+		Font		
+
+Global functions to use:
+
+		bool dmsInit() : 
+			
+			Initalizes needed demo stuff and sets up OpenGL.using default settings
+
+		bool dmsInitEx(int screenX, int screenY, int bpp, bool fullscreen, bool sound, bool vsync) : 
+			
+			Initalizes needed demo stuff and sets up OpenGL.using customized settings
+
+		void dmsShutDown() : 
+			
+			Kills everything and frees allocated memory
+
+		void dmsAddTexture(const char *fileName, const char *name) : 
+
+			Add a picture file "fileName" as a texture "name" into a TextureManager
+
+		void dmsUploadTexture() :
+
+			Upload all textures in a TextureManager to openGL
+
+		void dmsBindTexture(unsigned int mode, const char *name) :
+
+			Binds texture "name" in TextureManager with glBindTexture() using texture mode "mode" (ie. GL_TEXTURE_2D) 
+
+		void dmsWriteText(float x, float y, float z, float a, const char *fontName, char *msg) : 
+
+			Outputs text to a screen
+			 -position(x, y, z)
+			 -alpha(a)
+			 -fontName (in FontManager)
+			 -text(msg)
+
+		void dmsUpdateTimer() :
+
+			Updatea timer
+
+		void dmsMsg(const char *txt, ...) : 
+
+			Output text to the demo log. Function's syntax is same
+			as with printf()-function
+
+		float dmsGetTime() :
+
+			return elapsed time since demo started in milliseconds
+
+		Object *dmsGetObject(char *name) :
+
+			Retrieves an object "name" from an ObjectManager
+
+		Texture *dmsGetTexture(char *name) :
+
+			Retrieves a texture "name" from a TextureManager
+
+		Font *dmsGetFont(char *name) :
+
+			Retrieves a font "name" from a FontManager
+
+		HDC dmsGetHGC() :
+
+			Retrieve device contect for the OpenGL window
+											
